@@ -2,7 +2,8 @@
   "name": "codex-types",
   "version": "0.0.1",
   "description": "TypeScript type library for Codex Scripture Editor",
-  "main": "index.js",
+  "main": "dist/types.js",
+  "types": "dist/types.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
