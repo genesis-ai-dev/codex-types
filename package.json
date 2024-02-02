@@ -1,0 +1,31 @@
+{
+  "name": "codex-types",
+  "version": "0.0.1",
+  "description": "TypeScript type library for Codex Scripture Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genesis-ai-dev/codex-types.git"
+  },
+  "keywords": [
+    "codex",
+    "scripture",
+    "bible",
+    "translation",
+    "types"
+  ],
+  "author": "ryderwishart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/genesis-ai-dev/codex-types/issues"
+  },
+  "homepage": "https://github.com/genesis-ai-dev/codex-types#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.16",
+    "typescript": "^5.3.3"
+  }
+}
