@@ -102,7 +102,7 @@ export type DictionaryMetadata = {
 /* DictionaryEntry is a single entry in a dictionary. */
 export type DictionaryEntry = {
     id: string;
-    headForm: string; // This can be auto-populated as a quick action in the editor
+    headWord: string; // This can be auto-populated as a quick action in the editor
     /* 
     Users can merge entries with the same or similar head forms
     by adding the entry ids to the linkedEntries array.
