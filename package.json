@@ -1,6 +1,6 @@
 {
   "name": "codex-types",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "TypeScript type library for Codex Scripture Editor",
   "main": "dist/types.js",
   "types": "dist/types.d.ts",
